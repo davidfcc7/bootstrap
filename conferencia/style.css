@@ -1,3 +1,12 @@
 .selector-for-some-widget {
     box-sizing: content-box;
   }
+div.container a img{
+  width: 150px;
+}
+.color-compra{
+  color: rgb(3, 3, 3) !important;
+}
+.color-compra:hover{
+  color: #97c93e !important;
+}
