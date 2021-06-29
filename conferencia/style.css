@@ -54,6 +54,10 @@ div.container a img{
   height: 50px;
   background-color: black;
 }
+.boton-overlay:hover{
+  color: white;
+  background-color: #161515;
+}
 /*
 * FIN CARRUSEL
 */
