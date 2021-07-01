@@ -61,7 +61,19 @@ div.container a img{
 /*
 * FIN CARRUSEL
 */
-
+/*
+* INICIO CARD TOPIC
+*/
+.temasConf{
+  padding: 10px 0px 20px 0px;
+  text-decoration: 2px underline black;
+}
+.card-topic{
+  height: 80vh;
+}
+/*
+* FIN CARD TOPIC
+*/
 /*
 * INICIO FOOTER
 */
