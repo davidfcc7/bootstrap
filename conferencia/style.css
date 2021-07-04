@@ -91,6 +91,19 @@ div.container a img{
 * FIN CONTAINER FLUID
 */
 /*
+* INICIO FORMULARIO
+*/
+.formulario-contacto{
+  max-width: 90%;
+}
+.formulario-contacto button{
+  max-width: 100%;
+}
+
+/*
+* FIN FORMULARIO
+*/
+/*
 * INICIO FOOTER
 */
 footer{
