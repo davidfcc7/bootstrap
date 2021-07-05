@@ -5,7 +5,7 @@ nav{
   background-image: linear-gradient(to right bottom, #112e5b, #003963, #004468, #004f6c, #08596f);
 }
 .nav-item, .nav-link{
-  color: white;
+  color: rgb(255, 255, 255);
 }
 .selector-for-some-widget {
     box-sizing: content-box;
